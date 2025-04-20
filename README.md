@@ -47,5 +47,3 @@ Antes de começar, você precisará ter:
 - O formulário de inscrição não envia os dados inseridos e serve apenas como modelo visual.
 
 ---
-
-Espero que essa estrutura seja útil e prática para o seu README! Se precisar de mais detalhes ou alterações, me avise. 🚀
